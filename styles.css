@@ -124,7 +124,7 @@ main {
 h2 {
     margin: 0;
     text-align: center;
-    color: var(--slate-300);
+    color: var(--slate-900);
     font-size: var(--h2-font-size);
     line-height: var(--line-height-120)
 }
